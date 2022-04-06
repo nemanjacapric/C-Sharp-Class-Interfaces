@@ -1,0 +1,11 @@
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\obj\Debug\Nemanja_Capric_S17_19.csproj.AssemblyReference.cache
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\obj\Debug\Nemanja_Capric_S17_19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\obj\Debug\Nemanja_Capric_S17_19.Properties.Resources.resources
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\obj\Debug\Nemanja_Capric_S17_19.csproj.GenerateResource.cache
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\obj\Debug\Nemanja_Capric_S17_19.csproj.CoreCompileInputs.cache
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\obj\Debug\Kolokvijum2_Nemanja_Capric_s17_19.Desktop.resources
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\bin\Debug\Nemanja_Capric_S17_19.exe.config
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\bin\Debug\Nemanja_Capric_S17_19.exe
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\bin\Debug\Nemanja_Capric_S17_19.pdb
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\obj\Debug\Nemanja_Capric_S17_19.exe
+C:\Users\Capra\source\repos\Nemanja_Capric_S17_19\Nemanja_Capric_S17_19\obj\Debug\Nemanja_Capric_S17_19.pdb
